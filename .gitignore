@@ -1,0 +1,11 @@
+# Binarios compilados
+parser
+*.o
+*.exe
+
+# Archivos de resultados de test
+tests/results.txt
+
+# Archivos temporales del sistema
+*~
+.DS_Store
