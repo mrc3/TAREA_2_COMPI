@@ -21,4 +21,4 @@ gcc -std=c11 -O2 -Wall src/parser.c -o parser
 
 ## Integrantes
 - Marcelo Caceres, [CI/5165343]  
-- [Roberto Arce], [CI/legajo]
+- [Roberto Arce], [CI/4500872]
